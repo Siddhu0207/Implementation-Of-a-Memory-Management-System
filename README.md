@@ -35,7 +35,7 @@ Memory management is a fundamental responsibility of an operating system. This s
 * [cite_start]Handles page faults and evictions[cite: 108].
 * [cite_start]**Page Replacement Policies:** FIFO, LRU, Clock[cite: 102].
 
-## tj Project Structure
+##Project Structure
 
 [cite_start]The repository follows a modular structure separating allocation logic, caching, and reporting [cite: 159-172].
 
